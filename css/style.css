@@ -106,7 +106,9 @@ nav a {
    grid-gap: 20px;
 }
 
-@media(min-width: 576px){
+/* MOBILE FIRST */
+@media(min-width: 576px) {
+    
    .dsc-btn-page-container {
    width: 220px; 
 }
