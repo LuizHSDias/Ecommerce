@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso **ReactJS Professional** da DevSuperior, com foco na construção do layout utilizando **HTML5 e CSS3**, seguindo fielmente o design proposto no Figma.
 
-## 📌 Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo deste projeto é praticar:
 - Estruturação de páginas com HTML semântico
